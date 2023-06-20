@@ -9,7 +9,8 @@
 # ・条件式を書くのはwhile；　回数や範囲を書くのがfor
 
 i = 1
-
+while i <= 5 :
 	print( i)
 	i = i + 1
 print( "Progmra terminated")
+
