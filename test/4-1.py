@@ -1,3 +1,4 @@
 myList = ['ueda','ohishi','harada','mino','nagahama']
 
-print( myList[3])
+print( myList[2])
+

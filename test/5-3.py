@@ -7,3 +7,4 @@ ret = ''
 for mylp in range( lp):
 	ret = ret + str
 print( ret)
+

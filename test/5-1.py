@@ -2,6 +2,7 @@ myAns = 12
 
 Ans = int( myAns)
 
-Ans += 1
+Ans += 10
 
 print( Ans)
+

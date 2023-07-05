@@ -1,1 +1,2 @@
-print( "ueda" * 2 )
+print( "yamada" * 2 )
+

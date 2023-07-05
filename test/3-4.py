@@ -1,4 +1,5 @@
 gokei = 1
-for mm in range ( 2, 7, 2):
-    gokei  +=  mm
+for value in range ( 2, 11, 3):
+    gokei  +=  value
 print( gokei)
+

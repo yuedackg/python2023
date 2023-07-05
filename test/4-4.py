@@ -1,4 +1,4 @@
-myList = ['ueda','ohishi','harada','mino','nagahama']
+myList = ['ueda','ohishi','harada']
 
 myLen = len( myList)
 

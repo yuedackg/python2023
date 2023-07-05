@@ -1,1 +1,2 @@
-print( "ueda" , " yoshihiro")
+print( "suzuki", "taro")
+

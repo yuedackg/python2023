@@ -1,4 +1,6 @@
-i = 1
-while i < 5 :
-    i= i+1
-print( i)
+myCount = 1
+while myCount < 6 :
+    myCount= myCount+1
+print( myCount)
+
+
