@@ -1,0 +1,9 @@
+s={2,4,8,16}
+print(s)
+s.add(32)
+print(s)
+s.remove(2)
+print(s)
+s.discard(2)
+print(S.pop())
+print(s)
