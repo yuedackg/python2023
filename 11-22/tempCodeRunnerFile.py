@@ -1,0 +1,1 @@
+newpoint = np.dot( rot2, point2) 

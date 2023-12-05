@@ -1,0 +1,57 @@
+@charset "UTF-8";
+
+/*!
+Theme Name: Cocoon Child
+Template:   cocoon-master
+Version:    0.0.4
+*/
+
+/************************************
+** 子テーマ用のスタイルを書く
+************************************/
+/*必要ならばここにコードを書く*/
+ ul.col-3 {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  padding: 0 1rem; }
+  @media screen and (max-width: 480) {
+    ul.col-3{
+      display: block;
+      padding: 0; } }
+  .col-3 {
+  font-size: .9rem;
+  width: 100%;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap; }
+  .col-3 li {
+    -ms-flex-preferred-size: 30%;
+        flex-basis: 30%; }
+
+.col-3 {
+  padding: 15px;
+  border-right: 1px solid #DDD;
+  list-style: none;}
+
+/************************************
+** レスポンシブデザイン用のメディアクエリ
+************************************/
+/*1240px以下*/
+@media screen and (max-width: 1240px){
+  /*必要ならばここにコードを書く*/
+}
+
+/*1030px以下*/
+@media screen and (max-width: 1030px){
+  /*必要ならばここにコードを書く*/
+}
+
+/*768px以下*/
+@media screen and (max-width: 768px){
+  /*必要ならばここにコードを書く*/
+}
+
+/*480px以下*/
+@media screen and (max-width: 480px){
+  /*必要ならばここにコードを書く*/
+}
